@@ -1,0 +1,21 @@
+
+
+.directory-img{
+    height: 15vh;
+    vertical-align: middle;
+}
+.mini > span{
+    vertical-align:middle;
+    margin-left: 2vw;
+    font-size: 4vw;
+}
+
+.row{
+    display: flex;
+    gap: 4vw;
+}
+
+
+#buttonCars{
+    align-items: center;
+}

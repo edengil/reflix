@@ -1,0 +1,12 @@
+.logo {
+    height: 35px;
+    width: 50px;
+
+  }
+
+#main-links{
+    background-color: black;
+    margin: 10px;
+    color: #ed0b0b;
+    font-size: 25px;
+}

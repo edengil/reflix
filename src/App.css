@@ -1,0 +1,39 @@
+
+body{
+  color: #fefefe;
+  font-family: sans-serif;
+}
+
+#main-links > a{
+  margin: 10px;
+  color: #ed0b0b;
+  font-size: 25px;
+}
+h1{
+  color: #ed0b0b;
+}
+
+*{
+  text-decoration: none;
+  font-family: 'Cinzel Decorative'
+}
+
+a{
+  cursor: pointer;
+  color: black;
+}
+
+#home-background{
+  background-image: url(https://miro.medium.com/max/1085/1*5lyavS59mazOFnb55Z6znQ.png);
+  height: 100%;
+  width: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  opacity: 0.6;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: -1;
+}
+
